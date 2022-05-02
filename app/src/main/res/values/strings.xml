@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GitHubRepositories</string>
+
+    <string name="owner_image_description">Owner image</string>
+    <string name="repository_name">Repository name</string>
+    <string name="owner_name">Owner name</string>
+    <string name="star_amount">Star amount</string>
+
+</resources>
